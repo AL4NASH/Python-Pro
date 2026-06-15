@@ -57,4 +57,4 @@ async def duck(ctx):
     image_url = get_duck_image_url()
     await ctx.send(image_url)
 
-bot.run('MTQ1MTY4MjUzOTgzMTAzODE2NQ.GDWDcv.XMTmQd9ytwvGa0bY1g0zuzDA2bNleIh3J3LT3o')
+bot.run('TOKEN')
